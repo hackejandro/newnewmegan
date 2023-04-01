@@ -27,7 +27,7 @@ body {
 .book-image {
   display: block;
   margin: 0 auto;
-  max-width: 75vh;
+  max-width: 75vw;
   text-align: left;
 }
 
