@@ -1,0 +1,59 @@
+/* Reset default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Style the body element */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #f8f8f8;
+}
+
+/* Style the sections */
+.section {
+  width: 100%;
+  height: 100vh; /* Set the height to 100% of the viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Style the headings */
+h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Style the paragraphs */
+p {
+  margin-bottom: 1rem;
+}
+
+/* Style the links */
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #666;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+  .section {
+    height: auto;
+  }
+}
