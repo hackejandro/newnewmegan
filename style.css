@@ -27,7 +27,7 @@ body {
 .book-image {
   display: block;
   margin: 0 auto;
-  max-width: 100%;
+  max-width: 75vh;
   text-align: left;
 }
 
@@ -46,7 +46,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin-bottom: 1rem;
 }
 
