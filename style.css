@@ -24,6 +24,10 @@ body {
   text-align: center;
 }
 
+.book-image {
+  height: 100%;
+}
+
 /* Style the headings */
 h1 {
   font-size: 3rem;
