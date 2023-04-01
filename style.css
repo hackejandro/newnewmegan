@@ -21,7 +21,7 @@ body {
   align-items: center;
   flex-direction: column;
   padding: 2rem;
-  text-align: center;
+  text-align: left;
 }
 
 .book-image {
