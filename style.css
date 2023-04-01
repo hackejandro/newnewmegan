@@ -21,12 +21,12 @@ body {
   align-items: center;
   flex-direction: column;
   padding: 2rem;
-  text-align: left;
+  text-align: center;
 }
 
 .book-image {
   height: 75%;
-    text-align: left;
+  text-align: center;
 }
 
 /* Style the headings */
