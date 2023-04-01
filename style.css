@@ -26,6 +26,7 @@ body {
 
 .book-image {
   height: 75%;
+    text-align: left;
 }
 
 /* Style the headings */
